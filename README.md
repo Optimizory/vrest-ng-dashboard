@@ -1,4 +1,4 @@
-# vREST NG Dashboard Service v0.0.1
+# vREST NG Dashboard Service v0.5.0
 
 This is a repository to maintain releases of vREST NG Dashboard Service.
 
