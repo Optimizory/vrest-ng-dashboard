@@ -1,4 +1,4 @@
-# vREST NG Dashboard Service v0.5.0
+# vREST NG Dashboard Service v0.6.0
 
 This is a repository to maintain releases of vREST NG Dashboard Service.
 
@@ -12,7 +12,7 @@ vREST NG Dashboard Service has the following features and functionalities:
 - More analytics coming in near future...
 
 In order to setup vREST NG Dashboard Service, you can follow our guide on this:
-[Setup vREST NG Dashboard Service](https://ng.vrest.io/docs/dashboard/on-premise-installation.html)
+[Setup vREST NG Dashboard Service](https://vrest.io/docs/dashboard/on-premise-installation.html)
 
 ## Report Issues
 
